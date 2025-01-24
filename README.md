@@ -39,9 +39,3 @@ The following are some of the key packages included in the configuration:
     * `fastfetch`, `cmatrix`, `pipes` 🛠️
   * System Tools: 
     * Flatpak, PipeWire, TLP ⚙️
-
-## How to Use 🚀
-
-  1. Clone this repository: 
-
-        git clone https://github.com/jabaldoo/nix-config-gnome.git
