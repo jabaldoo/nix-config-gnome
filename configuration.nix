@@ -99,6 +99,7 @@
     gnome-tweaks
     nautilus
     emacs
+    neovim
   ];
 
   # Enable Flatpak
